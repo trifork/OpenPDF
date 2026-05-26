@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.github.librepdf</groupId>
+    <groupId>com.trifork</groupId>
     <artifactId>openpdf-parent</artifactId>
     <version>3.0.5-SNAPSHOT</version>
   </parent>
@@ -16,13 +16,13 @@
   <dependencies>
     <!-- OpenPDF core dependency -->
     <dependency>
-      <groupId>com.github.librepdf</groupId>
+      <groupId>com.trifork</groupId>
       <artifactId>openpdf</artifactId>
       <version>${project.version}</version>
     </dependency>
 
     <dependency>
-      <groupId>com.github.librepdf</groupId>
+      <groupId>com.trifork</groupId>
       <artifactId>openpdf-html</artifactId>
       <version>${project.version}</version>
     </dependency>

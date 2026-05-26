@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.github.librepdf</groupId>
+    <groupId>com.trifork</groupId>
     <artifactId>openpdf-parent</artifactId>
     <version>3.0.5-SNAPSHOT</version>
   </parent>
@@ -14,7 +14,7 @@
   <description>Open and Free PDF library. It uses the new package name `org.openpdf`.</description>
 
   <properties>
-    <java-module-name>com.github.librepdf.openpdf</java-module-name>
+    <java-module-name>com.trifork.openpdf</java-module-name>
   </properties>
 
   <dependencies>

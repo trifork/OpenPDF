@@ -23,7 +23,7 @@
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.swinglabs</groupId>
+            <groupId>com.trifork</groupId>
             <artifactId>openpdf-renderer</artifactId>
             <version>${project.version}</version>
         </dependency>
